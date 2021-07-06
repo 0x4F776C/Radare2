@@ -1,4 +1,5 @@
 # Cheatsheet for r*2
+What is better than Radare2?
 
 ```console
 V - hexdump
